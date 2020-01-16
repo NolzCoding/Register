@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+div.out {
+    width: 100%;
+}
+div.in {
+    width: fit-content;
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: rgb(226, 226, 226);
+}
+input {
+    margin: 10px 30px;
+    padding: 10px 10px;
+    border-radius: 2px;
+    border-style: none;
+    margin-bottom: 30px;
+}
+h1.loginh1 {
+    text-align: center;
+}
+label {
+    padding: 10px 20px;
+}
+input [type=submit] {
+    background-color: rgb(52, 255, 86);
+}
